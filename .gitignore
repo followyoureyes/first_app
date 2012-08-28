@@ -8,7 +8,7 @@
 /log/*.log
 /tmp
 
-# Ignore other unneeded files..
+# Ignore other unneeded files.
 doc/
 *.swp
 *~
